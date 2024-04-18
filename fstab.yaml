@@ -1,5 +1,5 @@
 mountpoints:
-  /: 
-  url: https://author-p10652-e203356-cmstg.adobeaemcloud.com/
-  type: "markup"
-  suffix: ".md.html"
+  /:
+    url:  https://author-p10652-e203356-cmstg.adobeaemcloud.com/
+    type: "markup"
+    suffix: ".md.html"
